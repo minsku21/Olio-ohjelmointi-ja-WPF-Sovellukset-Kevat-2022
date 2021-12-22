@@ -1,6 +1,6 @@
 # Olio-ohjelmointi-ja-WPF-Sovellukset-Kevät-19
 
-Oma Nimmi Tähän
+Oma Nimi Tähän
 
 ## Ohjeet
 
