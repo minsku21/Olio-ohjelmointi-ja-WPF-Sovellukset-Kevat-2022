@@ -21,6 +21,9 @@ namespace testapp
             koira2.rotu = "Ragdoll";
 
             koira2.TulosData();
+
+            koira koira3 = new koira("Laku", 5, "Mopsi");
+            koira3.TulosData();
         }
     }
 }

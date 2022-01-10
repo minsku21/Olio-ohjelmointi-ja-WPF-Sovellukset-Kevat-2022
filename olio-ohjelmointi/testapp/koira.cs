@@ -10,6 +10,16 @@ namespace testapp
         public int ikä;
         public string rotu;
 
+        public koira() { }
+
+        public koira(string _nimi, int _ikä, string _rotu)
+        {
+            nimi = _nimi;
+            ikä = _ikä;
+            rotu = _rotu;
+
+            Mauku();
+        }
         public void TulosData()
         {
             Console.WriteLine("koiran nimi: " + nimi + ". ikä: " + ikä + ". Rotu: " + rotu);
