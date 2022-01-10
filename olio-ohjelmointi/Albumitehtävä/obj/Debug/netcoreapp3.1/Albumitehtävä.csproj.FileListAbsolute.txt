@@ -1,0 +1,14 @@
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Albumitehtävä\obj\Debug\netcoreapp3.1\Albumitehtävä.csproj.AssemblyReference.cache
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Albumitehtävä\obj\Debug\netcoreapp3.1\Albumitehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Albumitehtävä\obj\Debug\netcoreapp3.1\Albumitehtävä.AssemblyInfoInputs.cache
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Albumitehtävä\obj\Debug\netcoreapp3.1\Albumitehtävä.AssemblyInfo.cs
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Albumitehtävä\obj\Debug\netcoreapp3.1\Albumitehtävä.csproj.CoreCompileInputs.cache
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Albumitehtävä\bin\Debug\netcoreapp3.1\Albumitehtävä.exe
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Albumitehtävä\bin\Debug\netcoreapp3.1\Albumitehtävä.deps.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Albumitehtävä\bin\Debug\netcoreapp3.1\Albumitehtävä.runtimeconfig.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Albumitehtävä\bin\Debug\netcoreapp3.1\Albumitehtävä.runtimeconfig.dev.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Albumitehtävä\bin\Debug\netcoreapp3.1\Albumitehtävä.dll
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Albumitehtävä\bin\Debug\netcoreapp3.1\Albumitehtävä.pdb
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Albumitehtävä\obj\Debug\netcoreapp3.1\Albumitehtävä.dll
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Albumitehtävä\obj\Debug\netcoreapp3.1\Albumitehtävä.pdb
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Albumitehtävä\obj\Debug\netcoreapp3.1\Albumitehtävä.genruntimeconfig.cache
