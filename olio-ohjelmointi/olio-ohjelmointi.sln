@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testapp", "testapp\testapp.csproj", "{B43C0737-E985-4261-A654-0DA628386800}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "testapp", "testapp\testapp.csproj", "{B43C0737-E985-4261-A654-0DA628386800}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ajoneuvot", "ajoneuvot\ajoneuvot.csproj", "{23BCBB87-5726-4341-835F-482FADD9B401}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ajoneuvot", "ajoneuvot\ajoneuvot.csproj", "{23BCBB87-5726-4341-835F-482FADD9B401}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opiskelija", "opiskelija\opiskelija.csproj", "{97DFAFE7-B6A9-4552-A09C-71651A388840}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "opiskelija", "opiskelija\opiskelija.csproj", "{97DFAFE7-B6A9-4552-A09C-71651A388840}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kiuastehtävä", "kiuastehtävä\kiuastehtävä.csproj", "{4676FCF8-8971-464C-9896-745C614EB828}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kiuastehtävä", "kiuastehtävä\kiuastehtävä.csproj", "{4676FCF8-8971-464C-9896-745C614EB828}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Albumitehtävä", "Albumitehtävä\Albumitehtävä.csproj", "{9FBD0F4A-D337-4079-8782-7E46D23A0A07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Albumitehtävä", "Albumitehtävä\Albumitehtävä.csproj", "{9FBD0F4A-D337-4079-8782-7E46D23A0A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static esimerkki", "Static esimerkki\Static esimerkki.csproj", "{37CBE483-95B3-4E88-8EDC-4655F3625013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laskin", "Laskin\Laskin.csproj", "{11550A32-252A-43FE-BC65-99A0CDE763CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{9FBD0F4A-D337-4079-8782-7E46D23A0A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FBD0F4A-D337-4079-8782-7E46D23A0A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FBD0F4A-D337-4079-8782-7E46D23A0A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37CBE483-95B3-4E88-8EDC-4655F3625013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37CBE483-95B3-4E88-8EDC-4655F3625013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37CBE483-95B3-4E88-8EDC-4655F3625013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37CBE483-95B3-4E88-8EDC-4655F3625013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11550A32-252A-43FE-BC65-99A0CDE763CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11550A32-252A-43FE-BC65-99A0CDE763CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11550A32-252A-43FE-BC65-99A0CDE763CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11550A32-252A-43FE-BC65-99A0CDE763CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

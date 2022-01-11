@@ -1,0 +1,13 @@
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Static esimerkki\bin\Debug\netcoreapp3.1\Static esimerkki.exe
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Static esimerkki\bin\Debug\netcoreapp3.1\Static esimerkki.deps.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Static esimerkki\bin\Debug\netcoreapp3.1\Static esimerkki.runtimeconfig.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Static esimerkki\bin\Debug\netcoreapp3.1\Static esimerkki.runtimeconfig.dev.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Static esimerkki\bin\Debug\netcoreapp3.1\Static esimerkki.dll
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Static esimerkki\bin\Debug\netcoreapp3.1\Static esimerkki.pdb
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Static esimerkki\obj\Debug\netcoreapp3.1\Static esimerkki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Static esimerkki\obj\Debug\netcoreapp3.1\Static esimerkki.AssemblyInfoInputs.cache
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Static esimerkki\obj\Debug\netcoreapp3.1\Static esimerkki.AssemblyInfo.cs
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Static esimerkki\obj\Debug\netcoreapp3.1\Static esimerkki.csproj.CoreCompileInputs.cache
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Static esimerkki\obj\Debug\netcoreapp3.1\Static esimerkki.dll
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Static esimerkki\obj\Debug\netcoreapp3.1\Static esimerkki.pdb
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Static esimerkki\obj\Debug\netcoreapp3.1\Static esimerkki.genruntimeconfig.cache

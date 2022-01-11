@@ -1,0 +1,13 @@
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Laskin\bin\Debug\netcoreapp3.1\Laskin.exe
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Laskin\bin\Debug\netcoreapp3.1\Laskin.deps.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Laskin\bin\Debug\netcoreapp3.1\Laskin.runtimeconfig.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Laskin\bin\Debug\netcoreapp3.1\Laskin.runtimeconfig.dev.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Laskin\bin\Debug\netcoreapp3.1\Laskin.dll
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Laskin\bin\Debug\netcoreapp3.1\Laskin.pdb
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Laskin\obj\Debug\netcoreapp3.1\Laskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Laskin\obj\Debug\netcoreapp3.1\Laskin.AssemblyInfoInputs.cache
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Laskin\obj\Debug\netcoreapp3.1\Laskin.AssemblyInfo.cs
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Laskin\obj\Debug\netcoreapp3.1\Laskin.csproj.CoreCompileInputs.cache
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Laskin\obj\Debug\netcoreapp3.1\Laskin.dll
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Laskin\obj\Debug\netcoreapp3.1\Laskin.pdb
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Laskin\obj\Debug\netcoreapp3.1\Laskin.genruntimeconfig.cache

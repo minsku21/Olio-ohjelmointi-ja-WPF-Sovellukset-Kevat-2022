@@ -43,6 +43,9 @@ namespace Albumitehtävä
                 Console.WriteLine(kappale.Nimi + "," + kappale.Pituus);
             }
         }
+        public void TulostaAlbumi()
+        {
 
+        }
     }
 }

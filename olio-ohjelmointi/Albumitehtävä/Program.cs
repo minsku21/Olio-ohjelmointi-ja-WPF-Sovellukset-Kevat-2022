@@ -6,7 +6,7 @@ namespace Albumitehtävä
     {
         static void Main(string[] args)
         {
-            Albumi albumi = new Albumi("Night Club","Scary world","Goth pop, Synth-pop, darkwave, electronica","8,85e");
+            Albumi albumi = new Albumi("Night Club","Scary world","Goth pop Synth-pop darkwave, electronica","8,85e");
 
             albumi.LisääKappale(new Kappale("Beware!", "1:24"));
             albumi.LisääKappale(new Kappale("Scary World", "3:10"));
@@ -19,7 +19,7 @@ namespace Albumitehtävä
             albumi.LisääKappale(new Kappale("Vampires", "3:33"));
             albumi.LisääKappale(new Kappale("Survive", "4:32"));
 
-
+            albumi.TulostaAlbumi();
 
 
         }
