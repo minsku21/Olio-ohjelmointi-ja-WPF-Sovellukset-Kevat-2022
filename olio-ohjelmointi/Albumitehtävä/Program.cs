@@ -20,6 +20,7 @@ namespace Albumitehtävä
             albumi.LisääKappale(new Kappale("Survive", "4:32"));
 
             albumi.TulostaAlbumi();
+            albumi.TulostaKappaleet();
 
 
         }

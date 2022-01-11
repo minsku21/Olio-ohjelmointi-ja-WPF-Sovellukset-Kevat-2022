@@ -45,7 +45,7 @@ namespace Albumitehtävä
         }
         public void TulostaAlbumi()
         {
-
+            Console.WriteLine(Artisti + Nimi + Genre + Hinta);
         }
     }
 }

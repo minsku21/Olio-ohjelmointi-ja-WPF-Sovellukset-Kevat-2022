@@ -1,0 +1,13 @@
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Harjoitus6\bin\Debug\netcoreapp3.1\Harjoitus6.exe
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Harjoitus6\bin\Debug\netcoreapp3.1\Harjoitus6.deps.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Harjoitus6\bin\Debug\netcoreapp3.1\Harjoitus6.runtimeconfig.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Harjoitus6\bin\Debug\netcoreapp3.1\Harjoitus6.runtimeconfig.dev.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Harjoitus6\bin\Debug\netcoreapp3.1\Harjoitus6.dll
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Harjoitus6\bin\Debug\netcoreapp3.1\Harjoitus6.pdb
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Harjoitus6\obj\Debug\netcoreapp3.1\Harjoitus6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Harjoitus6\obj\Debug\netcoreapp3.1\Harjoitus6.AssemblyInfoInputs.cache
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Harjoitus6\obj\Debug\netcoreapp3.1\Harjoitus6.AssemblyInfo.cs
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Harjoitus6\obj\Debug\netcoreapp3.1\Harjoitus6.csproj.CoreCompileInputs.cache
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Harjoitus6\obj\Debug\netcoreapp3.1\Harjoitus6.dll
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Harjoitus6\obj\Debug\netcoreapp3.1\Harjoitus6.pdb
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Harjoitus6\obj\Debug\netcoreapp3.1\Harjoitus6.genruntimeconfig.cache

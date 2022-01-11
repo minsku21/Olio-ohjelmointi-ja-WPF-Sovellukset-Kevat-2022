@@ -1,0 +1,13 @@
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.AssemblyInfoInputs.cache
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.AssemblyInfo.cs
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.csproj.CoreCompileInputs.cache
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.exe
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.deps.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.runtimeconfig.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.runtimeconfig.dev.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.dll
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.pdb
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.dll
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.pdb
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.genruntimeconfig.cache

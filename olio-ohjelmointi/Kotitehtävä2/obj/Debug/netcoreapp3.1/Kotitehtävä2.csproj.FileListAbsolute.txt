@@ -1,0 +1,13 @@
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kotitehtävä2\obj\Debug\netcoreapp3.1\Kotitehtävä2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kotitehtävä2\obj\Debug\netcoreapp3.1\Kotitehtävä2.AssemblyInfoInputs.cache
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kotitehtävä2\obj\Debug\netcoreapp3.1\Kotitehtävä2.AssemblyInfo.cs
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kotitehtävä2\obj\Debug\netcoreapp3.1\Kotitehtävä2.csproj.CoreCompileInputs.cache
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kotitehtävä2\bin\Debug\netcoreapp3.1\Kotitehtävä2.exe
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kotitehtävä2\bin\Debug\netcoreapp3.1\Kotitehtävä2.deps.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kotitehtävä2\bin\Debug\netcoreapp3.1\Kotitehtävä2.runtimeconfig.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kotitehtävä2\bin\Debug\netcoreapp3.1\Kotitehtävä2.runtimeconfig.dev.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kotitehtävä2\bin\Debug\netcoreapp3.1\Kotitehtävä2.dll
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kotitehtävä2\bin\Debug\netcoreapp3.1\Kotitehtävä2.pdb
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kotitehtävä2\obj\Debug\netcoreapp3.1\Kotitehtävä2.dll
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kotitehtävä2\obj\Debug\netcoreapp3.1\Kotitehtävä2.pdb
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kotitehtävä2\obj\Debug\netcoreapp3.1\Kotitehtävä2.genruntimeconfig.cache
