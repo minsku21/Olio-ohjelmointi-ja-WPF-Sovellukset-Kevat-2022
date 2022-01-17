@@ -1,0 +1,14 @@
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kokoelmat\bin\Debug\netcoreapp3.1\Kokoelmat.exe
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kokoelmat\bin\Debug\netcoreapp3.1\Kokoelmat.deps.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kokoelmat\bin\Debug\netcoreapp3.1\Kokoelmat.runtimeconfig.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kokoelmat\bin\Debug\netcoreapp3.1\Kokoelmat.runtimeconfig.dev.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kokoelmat\bin\Debug\netcoreapp3.1\Kokoelmat.dll
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kokoelmat\bin\Debug\netcoreapp3.1\Kokoelmat.pdb
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.csproj.AssemblyReference.cache
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.AssemblyInfoInputs.cache
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.AssemblyInfo.cs
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.csproj.CoreCompileInputs.cache
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.dll
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.pdb
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.genruntimeconfig.cache

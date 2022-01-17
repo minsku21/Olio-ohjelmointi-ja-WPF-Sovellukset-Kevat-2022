@@ -1,0 +1,14 @@
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\SM-Liiga\obj\Debug\netcoreapp3.1\SM-Liiga.csproj.AssemblyReference.cache
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\SM-Liiga\obj\Debug\netcoreapp3.1\SM-Liiga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\SM-Liiga\obj\Debug\netcoreapp3.1\SM-Liiga.AssemblyInfoInputs.cache
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\SM-Liiga\obj\Debug\netcoreapp3.1\SM-Liiga.AssemblyInfo.cs
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\SM-Liiga\obj\Debug\netcoreapp3.1\SM-Liiga.csproj.CoreCompileInputs.cache
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\SM-Liiga\bin\Debug\netcoreapp3.1\SM-Liiga.exe
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\SM-Liiga\bin\Debug\netcoreapp3.1\SM-Liiga.deps.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\SM-Liiga\bin\Debug\netcoreapp3.1\SM-Liiga.runtimeconfig.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\SM-Liiga\bin\Debug\netcoreapp3.1\SM-Liiga.runtimeconfig.dev.json
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\SM-Liiga\bin\Debug\netcoreapp3.1\SM-Liiga.dll
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\SM-Liiga\bin\Debug\netcoreapp3.1\SM-Liiga.pdb
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\SM-Liiga\obj\Debug\netcoreapp3.1\SM-Liiga.dll
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\SM-Liiga\obj\Debug\netcoreapp3.1\SM-Liiga.pdb
+C:\Users\minne\source\repos\minsku21\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\olio-ohjelmointi\SM-Liiga\obj\Debug\netcoreapp3.1\SM-Liiga.genruntimeconfig.cache
