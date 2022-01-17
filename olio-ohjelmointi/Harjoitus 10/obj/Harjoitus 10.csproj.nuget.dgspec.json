@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\minne\\source\\repos\\minsku21\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\olio-ohjelmointi\\Tehtävä7\\Tehtävä7.csproj": {}
+    "C:\\Users\\minne\\source\\repos\\minsku21\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\olio-ohjelmointi\\Harjoitus 10\\Harjoitus 10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\minne\\source\\repos\\minsku21\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\olio-ohjelmointi\\Tehtävä7\\Tehtävä7.csproj": {
+    "C:\\Users\\minne\\source\\repos\\minsku21\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\olio-ohjelmointi\\Harjoitus 10\\Harjoitus 10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minne\\source\\repos\\minsku21\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\olio-ohjelmointi\\Tehtävä7\\Tehtävä7.csproj",
-        "projectName": "Tehtävä7",
-        "projectPath": "C:\\Users\\minne\\source\\repos\\minsku21\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\olio-ohjelmointi\\Tehtävä7\\Tehtävä7.csproj",
+        "projectUniqueName": "C:\\Users\\minne\\source\\repos\\minsku21\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\olio-ohjelmointi\\Harjoitus 10\\Harjoitus 10.csproj",
+        "projectName": "Harjoitus 10",
+        "projectPath": "C:\\Users\\minne\\source\\repos\\minsku21\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\olio-ohjelmointi\\Harjoitus 10\\Harjoitus 10.csproj",
         "packagesPath": "C:\\Users\\minne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minne\\source\\repos\\minsku21\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\olio-ohjelmointi\\Tehtävä7\\obj\\",
+        "outputPath": "C:\\Users\\minne\\source\\repos\\minsku21\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\olio-ohjelmointi\\Harjoitus 10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\minne\\AppData\\Roaming\\NuGet\\NuGet.Config",

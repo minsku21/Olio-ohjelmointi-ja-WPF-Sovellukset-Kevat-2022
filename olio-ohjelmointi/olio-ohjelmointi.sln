@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tehtävä7", "Tehtävä7\Te
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kotitehtävä1", "Kotitehtävä1\Kotitehtävä1.csproj", "{1441A8B2-8DD9-46C5-A59C-DCDC27FDBCD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kotitehtävä2", "Kotitehtävä2\Kotitehtävä2.csproj", "{29C5BB69-5F78-410B-A87B-FE1FE8235E81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kotitehtävä2", "Kotitehtävä2\Kotitehtävä2.csproj", "{29C5BB69-5F78-410B-A87B-FE1FE8235E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 10", "Harjoitus 10\Harjoitus 10.csproj", "{91D21EDD-9238-4686-801D-992380AF651F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{29C5BB69-5F78-410B-A87B-FE1FE8235E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29C5BB69-5F78-410B-A87B-FE1FE8235E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29C5BB69-5F78-410B-A87B-FE1FE8235E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D21EDD-9238-4686-801D-992380AF651F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D21EDD-9238-4686-801D-992380AF651F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D21EDD-9238-4686-801D-992380AF651F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D21EDD-9238-4686-801D-992380AF651F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
