@@ -1,0 +1,15 @@
+﻿<Page x:Class="Harjoitus_19.Kerros3"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Harjoitus_19"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Kerros3">
+
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="444" Margin="-7,0,0,0" VerticalAlignment="Top" Width="807" Source="Hissi Kuvat/web3-heavens-gate-2jenn-via-shutterstock_631121210.jpg"/>
+
+    </Grid>
+</Page>

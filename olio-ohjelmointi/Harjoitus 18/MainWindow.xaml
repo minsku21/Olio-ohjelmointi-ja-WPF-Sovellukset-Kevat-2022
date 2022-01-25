@@ -7,6 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button x:Name="Plus" Content="+" HorizontalAlignment="Left" Margin="239,176,0,0" VerticalAlignment="Top" Width="55" Height="45" Click="Plus_Click"/>
+        <Button x:Name="Miinus" Content="-" HorizontalAlignment="Left" Margin="321,176,0,0" VerticalAlignment="Top" Width="55" Height="45" Click="Miinus_Click"/>
+        <Button x:Name="Kerto" Content="*" HorizontalAlignment="Left" Margin="405,176,0,0" VerticalAlignment="Top" Width="55" Height="45" Click="Jako_Click"/>
+        <Button x:Name="Jako" Content="/" HorizontalAlignment="Left" Margin="490,176,0,0" VerticalAlignment="Top" Width="55" Height="45" Click="Kerto_Click"/>
+        <TextBox x:Name="txt_Luku2" HorizontalAlignment="Left" Height="23" Margin="268,83,0,0" TextWrapping="Wrap" Text="4" VerticalAlignment="Top" Width="120" TextChanged="txt_Luku2_TextChanged"/>
+        <TextBox x:Name="txt_Luku" HorizontalAlignment="Left" Height="23" Margin="268,56,0,0" TextWrapping="Wrap" Text="4" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+        <TextBlock HorizontalAlignment="Left" Margin="268,123,0,0" TextWrapping="Wrap" Text="Lopputulos" VerticalAlignment="Top"/>
+        <TextBlock x:Name="tb_Lopputulos" HorizontalAlignment="Left" Margin="268,144,0,0" TextWrapping="Wrap" Text="Lopputulos" VerticalAlignment="Top"/>
     </Grid>
 </Window>

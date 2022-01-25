@@ -20,9 +20,57 @@ namespace Harjoitus_18
     /// </summary>
     public partial class MainWindow : Window
     {
+        
+
         public MainWindow()
         {
             InitializeComponent();
+
+            
+        }
+
+        private void Plus_Click(object sender, RoutedEventArgs e)
+        {
+            float tulos = float.Parse(txt_Luku.Text) + float.Parse(txt_Luku2.Text);
+            tb_Lopputulos.Text = tulos.ToString();
+        }
+
+        private void Miinus_Click(object sender, RoutedEventArgs e)
+        {
+            float tulos = float.Parse(txt_Luku.Text) - float.Parse(txt_Luku2.Text);
+            tb_Lopputulos.Text = tulos.ToString();
+        }
+
+        private void Jako_Click(object sender, RoutedEventArgs e)
+        {
+            float tulos = float.Parse(txt_Luku.Text) / float.Parse(txt_Luku2.Text);
+            tb_Lopputulos.Text = tulos.ToString();
+        }
+
+        private void Kerto_Click(object sender, RoutedEventArgs e)
+        {
+            float tulos = float.Parse(txt_Luku.Text) * float.Parse(txt_Luku2.Text);
+            tb_Lopputulos.Text = tulos.ToString();
+        }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            if (System.Text.RegularExpressions.Regex.IsMatch(txt_Luku.Text, "[^0-9]"))
+            {
+                MessageBox.Show("Please enter only numbers.");
+                txt_Luku.Text = "";
+            }
+            
+            
+        }
+
+        private void txt_Luku2_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            if (System.Text.RegularExpressions.Regex.IsMatch(txt_Luku2.Text, "[^0-9]"))
+            {
+                MessageBox.Show("Please enter only numbers.");
+                txt_Luku2.Text = "";
+            }
         }
     }
 }
